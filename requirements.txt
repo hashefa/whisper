@@ -5,4 +5,4 @@ tqdm
 more-itertools
 tiktoken==0.3.1
 ffmpeg-python==0.2.0
-git+https://github.com/jianfch/stable-ts/releases/tag/2.0.0
+git+https://github.com/jianfch/stable-ts/releases/tag/2.0.0#egg=package-two
